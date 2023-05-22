@@ -1,0 +1,15 @@
+.left-panel {
+    display: inline-block;
+    
+    width: 33%;
+}
+.middle-panel {
+    display: inline-block;
+    
+    width: 33%;
+}
+.right-panel {
+    display: inline-block;
+    
+    width: 33%
+}
